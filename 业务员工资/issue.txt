@@ -1,0 +1,5 @@
+if sales amount less than 10,000 yuan,then the salary is only 1,000 yuan;
+if sales amount less than 20,000 yuan,then the portion over 10,000 yuan can have 5% commission;
+if sales amount less than 50,000 yuan,then the portion over 20,000 yuan can have 6% commission;
+if sales amount less than 100,000 yuan, then the portion over 50,000 yuan can have 7% comission;
+if sales amount more than 100,000 yuan, tnen the portion over 100,000 yuan can have 8% comission.
